@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		Vm3QKcjdJaIyb8xQhoBTiCB6Sfo=
+		nqL8k5Lg5DlO5r9+cgJJdF0r1gQ=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		cXb9ApoVWJColbdS6FavaNejiFk=
+		me+DwKHm3ZnxRDuSMD2EsIOkRJU=
 		</data>
 		<key>Resources/LICENSE</key>
 		<data>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			scS7Yn/onMvKrB+N2o7v4fyFkzo68fUOISJhjyuaK50=
+			3Yj4Yh0+pUniufHFaTo19dDPuYVWH9oC20ewr9KJA70=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64.swiftdoc</key>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			scS7Yn/onMvKrB+N2o7v4fyFkzo68fUOISJhjyuaK50=
+			3Yj4Yh0+pUniufHFaTo19dDPuYVWH9oC20ewr9KJA70=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aA0QUAQbXbRM3GX6nay0b4VfKLVzEX+ldPuM0oKZytM=
+			rS76+R+nTwEFUnMgm980QwPRCxayV00sgscnXCuGzyU=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64.swiftdoc</key>
@@ -136,7 +136,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aA0QUAQbXbRM3GX6nay0b4VfKLVzEX+ldPuM0oKZytM=
+			rS76+R+nTwEFUnMgm980QwPRCxayV00sgscnXCuGzyU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -150,14 +150,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P01clsnY2lbG2+bewn++7JdnAjJpotfdozrUXKdiLY8=
+			s70/BSUvptzAGUQschnEeEOAsheABxnIhMjqkybLisg=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h2WFTmLIf+UkyqQurc8Q0/WihodxCsHmw9R8vQGkk/4=
+			b7sOM9AYKA0TFWC5XtMmrums0OBMziYlJri666Gt2g8=
 			</data>
 		</dict>
 		<key>Resources/LICENSE</key>

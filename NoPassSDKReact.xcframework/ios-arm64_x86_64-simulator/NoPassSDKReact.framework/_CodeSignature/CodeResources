@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8PhTBm5YKrMn3BBiYPZfwJ+pEWY=
+		fUpWxRG3zWsJGyga4UciY1U7YD8=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7wLWPnpMx8oUpRukGCVzbXXDPQ4=
+		nq8oaa78BQY2O2yahnz/zH6aAUs=
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		7wLWPnpMx8oUpRukGCVzbXXDPQ4=
+		nq8oaa78BQY2O2yahnz/zH6aAUs=
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VvoGhVeX87ElNZDCeC4lga04gjo=
+		sY8tY5PpkTJKn2xnAqaLopiwhrM=
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		VvoGhVeX87ElNZDCeC4lga04gjo=
+		sY8tY5PpkTJKn2xnAqaLopiwhrM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uMI+IPsqD+WO92E0nmqFbyMwOjrGEVIpZ56MF/AvXWM=
+			J1lUmHJcq8uHZXk8e34WZKrdCPaOJf8Iu955b4ZcAC4=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64.swiftdoc</key>
@@ -176,7 +176,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uMI+IPsqD+WO92E0nmqFbyMwOjrGEVIpZ56MF/AvXWM=
+			J1lUmHJcq8uHZXk8e34WZKrdCPaOJf8Iu955b4ZcAC4=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -197,7 +197,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWTlKoAPQnqtVA87eyqiky+vwbDBxhysVj/M+5lRu3w=
+			mrCgF09o7ImK3Ge+3oZAIbt/9Pd2chu5UV8ormTiPuc=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/x86_64.swiftdoc</key>
@@ -218,7 +218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWTlKoAPQnqtVA87eyqiky+vwbDBxhysVj/M+5lRu3w=
+			mrCgF09o7ImK3Ge+3oZAIbt/9Pd2chu5UV8ormTiPuc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
