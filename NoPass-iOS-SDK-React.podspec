@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
     s.author = { "Identite inc." => "support@identite.us" }
     s.source       = { :git => "https://github.com/identite/nopass.ios.sdk.react.git", :tag => "#{s.version}" }
 
-
     s.vendored_frameworks = "NoPassSDKReact.xcframework"
     s.platform = :ios
     # s.swift_version = "5"
