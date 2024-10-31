@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		nV/DTdw+g+f0nfCgOOSQMythnA4=
+		rgtJuCodfT5nWNKGzNMQsBnvjPo=
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		aFUxn0zsaU47rurjubRgps6HOs0=
+		36elmrq+V6r/a7QnhfbwnKqhdlY=
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -92,6 +92,10 @@
 		<data>
 		zlMLeRs/7rANIEdgUtFlt4ohb8s=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		x/UhxWGgoUvMCXoSVJBKCTJxwkU=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -141,14 +145,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AvFI5hVHA80nxdImgB61TsoIlpaZJ9hhzB19tSJjwpo=
+			6sD/BtO4vIxPGVBitcgXQl3CTnSb9pl8n85tY0bdl1k=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u1dgHkPdXn/Ba3GYz3nxt+UFUZN3U6MqJkXDXso+8PA=
+			X9EBzHpXU4hw8NsFlLDBBQMLcdA1GcOWrXSyOZPmnPk=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -240,6 +244,13 @@
 			<key>hash2</key>
 			<data>
 			mVGr1vGdQYisogvn/WAOdv5ngG4BXTrdWusMYM8S3ik=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JxomFHj3UUSEfYQJX39/UuSFARhuL+YCCsCymsfJUYw=
 			</data>
 		</dict>
 	</dict>

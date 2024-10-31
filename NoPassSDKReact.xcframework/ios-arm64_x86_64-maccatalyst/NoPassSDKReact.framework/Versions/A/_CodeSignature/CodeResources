@@ -24,6 +24,10 @@
 		<data>
 		zlMLeRs/7rANIEdgUtFlt4ohb8s=
 		</data>
+		<key>Resources/PrivacyInfo.xcprivacy</key>
+		<data>
+		x/UhxWGgoUvMCXoSVJBKCTJxwkU=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -59,14 +63,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			je0W1qYxX0l0b2oYfF1bJYXedhp2DaPVVzTs3hSr1J4=
+			2UE7zElaOUjbTeAXBV0vepjWyGuuDov4QnMz+uIpeFg=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/Project/x86_64-apple-ios-macabi.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/C/b+izGyoEoSyqihyKXxukNcb9OviUbHPxsB3p7ulc=
+			9SEwrspBh1zoCIfJiQSo3Hd9XcnOjNNSKyYMQoe2lNg=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
@@ -179,6 +183,13 @@
 			<key>hash2</key>
 			<data>
 			mVGr1vGdQYisogvn/WAOdv5ngG4BXTrdWusMYM8S3ik=
+			</data>
+		</dict>
+		<key>Resources/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JxomFHj3UUSEfYQJX39/UuSFARhuL+YCCsCymsfJUYw=
 			</data>
 		</dict>
 	</dict>

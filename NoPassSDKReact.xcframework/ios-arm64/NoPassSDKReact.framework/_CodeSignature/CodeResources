@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		WD+LkUFfr/WfwGIv6vnT+KNVVX0=
+		Qj4iBizXa5QP7XWw4z10XQDRsL4=
 		</data>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -67,6 +67,10 @@
 		<key>NoPass.momd/VersionInfo.plist</key>
 		<data>
 		zlMLeRs/7rANIEdgUtFlt4ohb8s=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		x/UhxWGgoUvMCXoSVJBKCTJxwkU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -117,7 +121,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			luqcyasR1G33W3Hmy00VPd6m9seDFGA+QRXOR2jJdGA=
+			GO/CEu4M9/FVLhzdmeQt5JATW7/aRtiwh5X3NxoCGpY=
 			</data>
 		</dict>
 		<key>Modules/NoPassSDKReact.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -174,6 +178,13 @@
 			<key>hash2</key>
 			<data>
 			mVGr1vGdQYisogvn/WAOdv5ngG4BXTrdWusMYM8S3ik=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JxomFHj3UUSEfYQJX39/UuSFARhuL+YCCsCymsfJUYw=
 			</data>
 		</dict>
 	</dict>
